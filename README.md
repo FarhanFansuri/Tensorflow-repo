@@ -2,14 +2,15 @@
 
 Selamat datang di repository pembelajaran TensorFlow! Repository ini berisi berbagai contoh, tutorial, dan proyek untuk membantu saya dalam memahami dan menguasai TensorFlow, salah satu framework machine learning paling populer.
 
+## Tentang
+
+TensorFlow adalah library open-source yang digunakan untuk membangun dan melatih model machine learning. Repository ini bertujuan untuk menyediakan sumber daya bagi pemula dan pengembang yang ingin belajar menggunakan TensorFlow untuk berbagai aplikasi, termasuk klasifikasi gambar, pengolahan bahasa alami, dan banyak lagi.
+
 ## Daftar Branch
 
 - Regresi
 - NLP
 
-## Tentang
-
-TensorFlow adalah library open-source yang digunakan untuk membangun dan melatih model machine learning. Repository ini bertujuan untuk menyediakan sumber daya bagi pemula dan pengembang yang ingin belajar menggunakan TensorFlow untuk berbagai aplikasi, termasuk klasifikasi gambar, pengolahan bahasa alami, dan banyak lagi.
 
 ## Instalasi
 
