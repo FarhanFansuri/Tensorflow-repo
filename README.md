@@ -1,6 +1,6 @@
 # TensorFlow Learning Repository
 
-Selamat datang di repository pembelajaran TensorFlow! Repository ini berisi berbagai contoh, tutorial, dan proyek untuk membantu Anda memahami dan menguasai TensorFlow, salah satu framework machine learning paling populer.
+Selamat datang di repository pembelajaran TensorFlow! Repository ini berisi berbagai contoh, tutorial, dan proyek untuk membantu saya dalam memahami dan menguasai TensorFlow, salah satu framework machine learning paling populer.
 
 ## Daftar Branch
 
