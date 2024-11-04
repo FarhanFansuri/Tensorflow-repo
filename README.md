@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />TensorFlow Learning Repository
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" /> TensorFlow Learning Repository
 
 Selamat datang di repository pembelajaran TensorFlow! Repository ini berisi berbagai contoh, tutorial, dan proyek untuk membantu saya dalam memahami dan menguasai TensorFlow, salah satu framework machine learning paling populer.
 
