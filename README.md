@@ -10,6 +10,8 @@ TensorFlow adalah library open-source yang digunakan untuk membangun dan melatih
 
 - Regresi
 - NLP
+- time-serries
+- aladdin-persson
 
 
 ## Instalasi
